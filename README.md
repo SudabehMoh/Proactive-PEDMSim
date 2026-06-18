@@ -267,7 +267,7 @@ The framework enables the investigation of how predictive resource management ca
 
 ## Citation
 
-If you use PRPEDMSim in academic research, please cite the corresponding publication when available.
+
 
 ---
 
